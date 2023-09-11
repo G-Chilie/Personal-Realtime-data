@@ -28,9 +28,9 @@ class UserProfile {
 
 document.addEventListener("DOMContentLoaded", function() {
     const userProfile = new UserProfile(
-        'Chinwe Okonkwo',
-        'image/youtub.jpeg', 
-        'Frontend',
+        'UserName: Chinwe Okonkwo',
+        'image/youtub1.jpeg', 
+        'Track: Frontend',
         'https://github.com/G-Chilie'
     );
 
